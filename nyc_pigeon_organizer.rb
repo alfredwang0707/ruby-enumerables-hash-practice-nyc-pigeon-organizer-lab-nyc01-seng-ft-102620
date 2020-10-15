@@ -3,7 +3,6 @@ require "pry"
 def nyc_pigeon_organizer(data)
 data.each_for_object({}) do |(key, value), final_array|
 value.each do |inner key, names|
-end  
 binding.pry 
 final_array
 end
