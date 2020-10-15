@@ -7,4 +7,5 @@ end
 binding.pry 
 final_array
 end
+binding.pry
 end
